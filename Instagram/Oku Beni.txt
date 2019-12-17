@@ -1,0 +1,7 @@
+HTML dosyasını not defteriyle açtığınızda göreceğiniz 
+
+<form action="https://submit-form.com/UUVa0PKj0i_ztwhFyr7tv" target="_self">
+
+bölümünde ki action kısmında kendi submit form adresinizi belirtmeniz gerekiyor. 
+
+Ücretsiz olarak 500 kullanım geçerli olacaktır. 
